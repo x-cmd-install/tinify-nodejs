@@ -208,4 +208,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 21 are checked with a SAST tool'
 ---
-{"id":350335527,"author":{"login":"rkoopmans","id":1124992,"node_id":"MDQ6VXNlcjExMjQ5OTI=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAk9Sbs4U4bIn","tag_name":"1.8.3","target_commitish":"master","name":"1.8.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-07T13:37:03Z","updated_at":"2026-07-07T13:38:39Z","published_at":"2026-07-07T13:38:39Z","assets":[],"body":"## What's Changed\r\n* add jxl by @rkoopmans in https://github.com/tinify/tinify-nodejs/pull/53\r\n* use oidc for trusted publishes to npm by @rkoopmans in https://github.com/tinify/tinify-nodejs/pull/54\r\n* confirm compatibility with node 26\r\n\r\n**Full Changelog**: https://github.com/tinify/tinify-nodejs/compare/1.8.2...1.8.3","mentions_count":1}
