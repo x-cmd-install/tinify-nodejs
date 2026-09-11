@@ -7,7 +7,7 @@ about:
   latestVersion: "1.8.3"
   latestRelease: "1.8.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:47:35Z
+  collectedAt: 2026-09-11T20:14:47Z
 timeline:
   created: 2015-07-08
   lastCommit: 2026-07-07
@@ -85,7 +85,7 @@ total:
   commit: 113
 ---
 path: /home/runner/.x-repo/github.com/tinify/tinify-nodejs
-collectedAt: 2026-09-11T04:47:36Z
+collectedAt: 2026-09-11T20:14:48Z
 loc:
   JavaScript:
     code: 929
