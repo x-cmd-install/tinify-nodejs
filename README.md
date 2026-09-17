@@ -30,8 +30,8 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **Code-Review** (2/10) — Found 4/14 approved changesets -- score normalized to 2
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 1 | 2 | 1 | 0 | 0 | 4 |
-| last180d | 2026-03-19 | 1 | 2 | 1 | 0 | 0 | 4 |
-| 360d | 2025-09-20 | 2 | 3 | 1 | 0 | 0 | 5 |
-| last720d | 2024-09-25 | 4 | 5 | 1 | 0 | 0 | 28 |
+| 30d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 1 | 2 | 1 | 0 | 0 | 4 |
+| last180d | 2026-03-21 | 1 | 2 | 1 | 0 | 0 | 4 |
+| 360d | 2025-09-22 | 2 | 3 | 1 | 0 | 0 | 5 |
+| last720d | 2024-09-27 | 4 | 5 | 1 | 0 | 0 | 28 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tinify-nodejs lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:08:24Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:03:10Z._
