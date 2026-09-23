@@ -4,7 +4,7 @@
 
 Node.js client for the Tinify API.
 
-[![x-cmd/install — tinify-nodejs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tinify-nodejs.svg)](https://x-cmd.com/install/tinify-nodejs)
+[![x-cmd/install — tinify-nodejs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tinify-nodejs.svg)](https://x-cmd.com/install/tinify-nodejs)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 2 | 1 | 0 | 0 | 4 |
-| last180d | 2026-03-26 | 1 | 2 | 1 | 0 | 0 | 4 |
-| 360d | 2025-09-27 | 1 | 2 | 1 | 0 | 0 | 5 |
-| last720d | 2024-10-02 | 4 | 5 | 1 | 0 | 0 | 28 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 2 | 1 | 0 | 0 | 4 |
+| last180d | 2026-03-27 | 1 | 2 | 1 | 0 | 0 | 4 |
+| 360d | 2025-09-28 | 1 | 2 | 1 | 0 | 0 | 5 |
+| last720d | 2024-10-03 | 4 | 5 | 1 | 0 | 0 | 28 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tinify-nodejs lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:58:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:56:07Z._
