@@ -14,15 +14,15 @@ x install tinify-nodejs
 
 ## Code insight
 
-Total: **1,653** lines of code across **23** files in the top 5 languages.
+Total: **1,673** lines of code across **24** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 929 | 13 | 209 | 6 |
-| TypeScript | 616 | 40 | 117 | 11 |
+| TypeScript | 636 | 76 | 127 | 12 |
 | Json | 86 | 0 | 0 | 3 |
 | Sh | 22 | 3 | 2 | 1 |
-| Markdown | 0 | 63 | 32 | 2 |
+| Markdown | 0 | 65 | 33 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -31,7 +31,7 @@ Overall score: **4.4 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (2/10) — Found 4/14 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.8.3` (2026-07-07)
-- **Last commit**: 2026-07-07
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 458 · **Forks**: 46 · **Open issues**: 45 · **Contributors**: 8
+- **Stars**: 459 · **Forks**: 46 · **Open issues**: 45 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 8 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 113
+- **Releases**: 5 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 44 · **Open issues**: 1 · **Commits**: 114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 1 | 2 | 1 | 0 | 0 | 4 |
-| 360d | 2025-11-09 | 1 | 2 | 1 | 0 | 0 | 5 |
-| last720d | 2024-11-14 | 4 | 5 | 1 | 0 | 0 | 28 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-07 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-09 | 1 | 3 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-10 | 1 | 3 | 0 | 0 | 0 | 6 |
+| last720d | 2024-11-15 | 4 | 6 | 0 | 0 | 0 | 29 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tinify-nodejs lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:22:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:50:22Z._

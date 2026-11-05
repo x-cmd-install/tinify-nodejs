@@ -14,15 +14,15 @@ x install tinify-nodejs
 
 ## 代码洞察
 
-合计: **1,653** 行代码（覆盖前 5 种语言、共 **23** 个文件）。
+合计: **1,673** 行代码（覆盖前 5 种语言、共 **24** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | JavaScript | 929 | 13 | 209 | 6 |
-| TypeScript | 616 | 40 | 117 | 11 |
+| TypeScript | 636 | 76 | 127 | 12 |
 | Json | 86 | 0 | 0 | 3 |
 | Sh | 22 | 3 | 2 | 1 |
-| Markdown | 0 | 63 | 32 | 2 |
+| Markdown | 0 | 65 | 33 | 2 |
 
 ## OpenSSF Scorecard 评分
 
@@ -31,7 +31,7 @@ x install tinify-nodejs
 评分最低的几项:
 
 - **Code-Review** (2/10) — Found 4/14 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
@@ -43,26 +43,26 @@ x install tinify-nodejs
 ## 发布
 
 - **最新版本**: `1.8.3` (2026-07-07)
-- **最近提交**: 2026-07-07
+- **最近提交**: 2026-11-04
 
 ## 流行度
 
-- **Star**: 458 · **Fork**: 46 · **开放 issue**: 45 · **贡献者**: 8
+- **Star**: 459 · **Fork**: 46 · **开放 issue**: 45 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 5 · **已合并 PR**: 8 · **开放 PR**: 1 · **已关闭 issue**: 44 · **开放 issue**: 1 · **提交数**: 113
+- **发布数**: 5 · **已合并 PR**: 9 · **开放 PR**: 0 · **已关闭 issue**: 44 · **开放 issue**: 1 · **提交数**: 114
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 1 | 2 | 1 | 0 | 0 | 4 |
-| 360d | 2025-11-09 | 1 | 2 | 1 | 0 | 0 | 5 |
-| last720d | 2024-11-14 | 4 | 5 | 1 | 0 | 0 | 28 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-07 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-09 | 1 | 3 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-10 | 1 | 3 | 0 | 0 | 0 | 6 |
+| last720d | 2024-11-15 | 4 | 6 | 0 | 0 | 0 | 29 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ tinify-nodejs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:22:16Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:50:22Z._
